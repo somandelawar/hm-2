@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(18, 9, 29);
+    color:white;
+    text-align: center;
+    border: 5px solid rgb(192, 5, 5);    /* red
+    border around whle page */
+
+    padding: 2px;
+
+
+}
+
+/* title */
+h1{
+    color:rgb(243, 239, 8);
+    font-size:28px;
+    border-bottom:2px solid rgb(172, 12, 12);   /*
+    whit line under  title  */
+    padding-bottom:10px;
+
+}
+/* paragraph */
+p{
+    font-size:18px;
+    border: 2px  solid rgb(184, 16, 16);     /* small
+    white border around text  */
+    padding:10;
+    margin:10px;
+    max-width:500px;
+
+
+}
+video{
+    border:5px  solid red;   /*
+    red border around the video */
+    border-radius:15px;   /*
+    rounded corners of the video  */
+}
+
+    
+    
